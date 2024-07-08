@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishnaManchikanti
-- 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning MERN stack 
+- 👀 I’m interested in Java backend development
+- 🌱 I’m currently working on Spring Boot projects.
 - 💞️ I’m looking to collaborate on WebDevelopment 
 - 📫 How to reach me mkrishna_1998@yahoo.com
 
